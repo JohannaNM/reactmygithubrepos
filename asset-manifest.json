@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactmygithubrepos/static/css/main.ca4856c8.css",
+    "main.js": "/reactmygithubrepos/static/js/main.b45ae177.js",
+    "static/js/453.1e3e4399.chunk.js": "/reactmygithubrepos/static/js/453.1e3e4399.chunk.js",
+    "index.html": "/reactmygithubrepos/index.html",
+    "main.ca4856c8.css.map": "/reactmygithubrepos/static/css/main.ca4856c8.css.map",
+    "main.b45ae177.js.map": "/reactmygithubrepos/static/js/main.b45ae177.js.map",
+    "453.1e3e4399.chunk.js.map": "/reactmygithubrepos/static/js/453.1e3e4399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca4856c8.css",
+    "static/js/main.b45ae177.js"
+  ]
+}
